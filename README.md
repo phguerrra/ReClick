@@ -707,7 +707,10 @@ Este projeto é de uso educacional e demonstrativo. Sinta-se livre para usar, mo
 
 ## 👥 Autores
 
-- **Equipe de Desenvolvimento** - Desenvolvimento inicial
+- Augusto Souza
+- Gabriel Paes
+- Laurence Miguel
+- Pedro GUerra
 
 ---
 
@@ -720,15 +723,7 @@ Este projeto é de uso educacional e demonstrativo. Sinta-se livre para usar, mo
 
 ---
 
-## 📞 Contato
 
-Para dúvidas, sugestões ou problemas:
-
-- **Email**: suporte@reclick.com
-- **Telefone**: (11) 91234-5678
-- **Horário de Atendimento**: Segunda a Sexta, 9h às 18h
-
----
 
 <div align="center">
 
