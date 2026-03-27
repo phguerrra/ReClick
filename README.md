@@ -120,6 +120,9 @@ Este projeto foi desenvolvido como atividade de extensão universitária, com o 
 
 ## 👨‍💻 Autor
 
+Augusto Souza
+Gabriel Paes
+Laurence Miguel 
 Pedro Guerra  
 Curso de Ciência da Computação  
 Projeto de Extensão – 2026
